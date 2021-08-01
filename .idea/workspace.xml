@@ -16,38 +16,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SequenceListDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+      <file leaf-file-name="LianBiaoDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+            <state relative-caret-position="649">
+              <caret line="103" column="41" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SingleListDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3151">
-              <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
-              <folding>
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-14">
+              <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LianBiaoDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/LianBiaoDemo.java">
+      <file leaf-file-name="DoubleLinkedListDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+            <state relative-caret-position="391">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#1009#1010#0" expanded="true" />
-                <element signature="e#1040#1041#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#2774#2775#0" expanded="true" />
+                <element signature="e#2811#2812#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +75,13 @@
         <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
         <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
         <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SequenceListDemo.java" />
-        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/LianBiaoDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/LianBiaoDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/LianBiaoDemo.java" />
+        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java" />
+        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java" />
+        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java" />
+        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java" />
       </list>
     </option>
   </component>
@@ -104,9 +105,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,6 +141,15 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structure_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,7 +160,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/..//test/Data_Structure/data_structure_demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -170,27 +180,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LianBiaoDemo">
-    <configuration name="LianBiaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DoubleLinkedListDemo">
+    <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.LianBiaoDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.DoubleLinkedListDemo" />
       <module name="data_structure_demo" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.demo.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LianBiaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.LianBiaoDemo" />
+      <module name="data_structure_demo" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="SequenceListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.SequenceListDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.SequenceListDemo" />
       <module name="data_structure_demo" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.demo.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +221,12 @@
     <configuration name="SingleListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.SingleListDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.SingleListDemo" />
       <module name="data_structure_demo" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/data_structure_demo/src/com/example/demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.demo.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +276,13 @@
       <item itemvalue="Application.SequenceListDemo" />
       <item itemvalue="Application.SingleListDemo" />
       <item itemvalue="Application.LianBiaoDemo" />
+      <item itemvalue="Application.DoubleLinkedListDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LianBiaoDemo" />
+        <item itemvalue="Application.DoubleLinkedListDemo" />
         <item itemvalue="Application.SingleListDemo" />
+        <item itemvalue="Application.LianBiaoDemo" />
         <item itemvalue="Application.SequenceListDemo" />
       </list>
     </recent_temporary>
@@ -280,11 +305,13 @@
       <workItem from="1627389337193" duration="1034000" />
       <workItem from="1627478803173" duration="1838000" />
       <workItem from="1627560917013" duration="6618000" />
+      <workItem from="1627651091948" duration="1437000" />
+      <workItem from="1627801151716" duration="18610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38119000" />
+    <option name="totallyTimeSpent" value="58166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -300,22 +327,22 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34356725" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40497077" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49707603" visible="true" weight="0.2077748" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49443206" visible="true" weight="0.19369973" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.50292397" side_tool="true" visible="true" weight="0.2077748" />
+      <window_info id="Structure" order="1" sideWeight="0.5055679" side_tool="true" weight="0.21313673" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35233918" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4385965" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,106 +356,144 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="34" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="141" column="9" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2392">
           <caret line="104" column="31" lean-forward="true" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1656">
           <caret line="72" column="52" lean-forward="true" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3059">
           <caret line="133" column="16" lean-forward="true" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3059">
           <caret line="133" column="13" selection-start-line="133" selection-start-column="13" selection-end-line="133" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1518">
           <caret line="66" column="55" lean-forward="true" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3082">
           <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1541">
           <caret line="67" column="90" selection-start-line="67" selection-start-column="90" selection-end-line="67" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1012">
           <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2438">
           <caret line="106" column="30" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
@@ -443,33 +508,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SequenceListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+        <state relative-caret-position="161">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/SingleListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3151">
-          <caret line="141" column="9" lean-forward="true" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
-          <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="649">
+          <caret line="103" column="41" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/LianBiaoDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+        <state relative-caret-position="-14">
+          <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#2774#2775#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
           </folding>
         </state>
       </provider>

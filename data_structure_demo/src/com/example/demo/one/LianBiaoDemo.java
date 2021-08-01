@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.one;
 
 class MyLinkedList<E> {
     private class Node {
@@ -103,7 +103,7 @@ class MyLinkedList<E> {
         }
         Node q = p.next;     //q即准备要删除的结点
         E e = q.data;       //把q结点的数据提取出来
-        p.next = q.next;    //把q结点的指针域地址存入p结点的指针域
+        p.next = q.next;    //把q结点的下一结点地址存入p结点的指针域
         q.next = null;      //删除q结点
         q.data = null;
         listSize--;         //表长-1

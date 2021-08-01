@@ -1,6 +1,4 @@
-package com.example.demo;
-
-import java.util.LinkedList;
+package com.example.demo.one;
 
 /**
  * 单向链表操作
