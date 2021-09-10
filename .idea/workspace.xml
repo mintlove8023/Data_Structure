@@ -10,41 +10,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataStructure$StackDemo1.ic" NAME="StackDemo1 Coverage Results" MODIFIED="1628777093376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.three.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/DataStructure$SingleListDemo.ic" NAME="SingleListDemo Coverage Results" MODIFIED="1626700984338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.example.demo.*</FILTER>
     </SUITE>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LianBiaoDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
+      <file leaf-file-name="SequenceQueueDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/SequenceQueueDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="103" column="41" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingleListDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14">
-              <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DoubleLinkedListDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+            <state relative-caret-position="160">
+              <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
               <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#2774#2775#0" expanded="true" />
-                <element signature="e#2811#2812#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedQueueDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/LinkedQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoopQueueDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/LoopQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -62,26 +63,66 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>add</find>
+      <find>Stack</find>
+      <find>elementData</find>
+      <find>get</find>
+      <find>capacityIncrement</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/ILinkedList.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SequenceListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SequenceListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/LianBiaoDemo.java" />
-        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/LianBiaoDemo.java" />
-        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java" />
-        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java" />
-        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java" />
-        <option value="$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo2.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo2.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/StackDemo1.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SharedStack.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkStack.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/FibonacciSequence.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SharedStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LooperQueue.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceQueue.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkedQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkedQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LooperQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LoopQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LoopQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SharedStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SharedStackDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/FibonacciSequence.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/SequenceQueueDemo.java" />
+        <option value="$PROJECT_DIR$/data_structure_demo/src/com/example/demo/three/LinkedQueueDemo.java" />
       </list>
     </option>
   </component>
@@ -107,7 +148,6 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,23 +190,34 @@
               <item name="demo" type="462c0819:PsiDirectoryNode" />
               <item name="one" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structure_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/..//test/Data_Structure/data_structure_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_structure_demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,53 +231,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoubleLinkedListDemo">
-    <configuration name="DoubleLinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.DoubleLinkedListDemo" />
+  <component name="RunManager" selected="Application.LinkedQueueDemo">
+    <configuration name="FibonacciSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.three.FibonacciSequence" />
       <module name="data_structure_demo" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.one.*" />
+          <option name="PATTERN" value="com.example.demo.three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LianBiaoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.LianBiaoDemo" />
+    <configuration name="LinkStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.three.LinkStackDemo" />
       <module name="data_structure_demo" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.one.*" />
+          <option name="PATTERN" value="com.example.demo.three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SequenceListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.SequenceListDemo" />
+    <configuration name="LinkedQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.three.LinkedQueueDemo" />
       <module name="data_structure_demo" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.one.*" />
+          <option name="PATTERN" value="com.example.demo.three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SingleListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.one.SingleListDemo" />
+    <configuration name="SequenceStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.three.SequenceStackDemo" />
       <module name="data_structure_demo" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/data_structure_demo/src/com/example/demo" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.one.*" />
+          <option name="PATTERN" value="com.example.demo.three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SharedStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.three.SharedStackDemo" />
+      <module name="data_structure_demo" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.three.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,17 +329,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SequenceListDemo" />
-      <item itemvalue="Application.SingleListDemo" />
-      <item itemvalue="Application.LianBiaoDemo" />
-      <item itemvalue="Application.DoubleLinkedListDemo" />
+      <item itemvalue="Application.LinkStackDemo" />
+      <item itemvalue="Application.SequenceStackDemo" />
+      <item itemvalue="Application.SharedStackDemo" />
+      <item itemvalue="Application.FibonacciSequence" />
+      <item itemvalue="Application.LinkedQueueDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleLinkedListDemo" />
-        <item itemvalue="Application.SingleListDemo" />
-        <item itemvalue="Application.LianBiaoDemo" />
-        <item itemvalue="Application.SequenceListDemo" />
+        <item itemvalue="Application.LinkedQueueDemo" />
+        <item itemvalue="Application.FibonacciSequence" />
+        <item itemvalue="Application.SharedStackDemo" />
+        <item itemvalue="Application.LinkStackDemo" />
+        <item itemvalue="Application.SequenceStackDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -306,12 +364,47 @@
       <workItem from="1627478803173" duration="1838000" />
       <workItem from="1627560917013" duration="6618000" />
       <workItem from="1627651091948" duration="1437000" />
-      <workItem from="1627801151716" duration="18610000" />
+      <workItem from="1627801151716" duration="20691000" />
+      <workItem from="1627994135961" duration="2563000" />
+      <workItem from="1628079766249" duration="3939000" />
+      <workItem from="1628166045270" duration="3403000" />
+      <workItem from="1628252116286" duration="4078000" />
+      <workItem from="1628402017457" duration="6171000" />
+      <workItem from="1628510711739" duration="3702000" />
+      <workItem from="1628600101267" duration="4452000" />
+      <workItem from="1628684813069" duration="1055000" />
+      <workItem from="1628688727741" duration="1662000" />
+      <workItem from="1628769533057" duration="2010000" />
+      <workItem from="1628771579013" duration="165000" />
+      <workItem from="1628771776533" duration="117000" />
+      <workItem from="1628771909097" duration="633000" />
+      <workItem from="1628772563816" duration="5268000" />
+      <workItem from="1628998373409" duration="687000" />
+      <workItem from="1629019282389" duration="11600000" />
+      <workItem from="1629116191207" duration="6549000" />
+      <workItem from="1629202629547" duration="5716000" />
+      <workItem from="1629289529627" duration="6093000" />
+      <workItem from="1629374992437" duration="5048000" />
+      <workItem from="1629634940931" duration="2726000" />
+      <workItem from="1629719845966" duration="7440000" />
+      <workItem from="1629807909491" duration="7896000" />
+      <workItem from="1629893560727" duration="1116000" />
+      <workItem from="1629897309402" duration="4093000" />
+      <workItem from="1629979405327" duration="8323000" />
+      <workItem from="1630235011540" duration="8058000" />
+      <workItem from="1630324726881" duration="6059000" />
+      <workItem from="1630411268733" duration="5275000" />
+      <workItem from="1630498848508" duration="1827000" />
+      <workItem from="1630930616461" duration="4611000" />
+      <workItem from="1631014314681" duration="7480000" />
+      <workItem from="1631102651369" duration="8311000" />
+      <workItem from="1631187384730" duration="5502000" />
+      <workItem from="1631276977079" duration="2137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58166000" />
+    <option name="totallyTimeSpent" value="216012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -319,7 +412,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32894737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -327,25 +419,28 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40497077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26555386" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32903227" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49443206" visible="true" weight="0.19369973" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47921762" visible="true" weight="0.25871313" />
       <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.5055679" side_tool="true" weight="0.21313673" />
+      <window_info id="Structure" order="1" sideWeight="0.5207824" side_tool="true" weight="0.21782842" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4385965" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35508347" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32776934" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Translation Assistant" order="9" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,10 +451,76 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="34" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="60" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2369">
+          <caret line="103" column="41" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="82" column="23" lean-forward="true" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SequenceListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2392">
@@ -515,29 +676,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="103" column="41" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
+        <state relative-caret-position="23">
+          <caret line="79" column="22" lean-forward="true" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="599" column="7" lean-forward="true" selection-start-line="599" selection-start-column="7" selection-end-line="599" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/two/AlgorithmDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="75" column="44" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10180">
+          <caret line="557" column="29" selection-start-line="557" selection-start-column="29" selection-end-line="557" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="4570" selection-start-line="4570" selection-end-line="4570" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="188" column="60" lean-forward="true" selection-start-line="188" selection-start-column="60" selection-end-line="188" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/ReversePolishNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#1753#1754#0" expanded="true" />
+            <element signature="e#1796#1797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/com/sun/corba/se/spi/orbutil/threadpool/NoSuchWorkQueueException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/SingleListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
+        <state relative-caret-position="-760">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/DoubleLinkedListDemo.java">
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/one/LianBiaoDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        <state relative-caret-position="20">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/SequenceStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="94" column="26" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
           <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#2774#2775#0" expanded="true" />
-            <element signature="e#2811#2812#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/LinkStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/SharedStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="127" column="27" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/FibonacciSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/LinkedQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/LoopQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../dataStructure/data_structure_demo/src/com/example/demo/three/SequenceQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
           </folding>
         </state>
       </provider>
